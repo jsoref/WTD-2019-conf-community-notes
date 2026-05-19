@@ -70,7 +70,7 @@ tags: [WTD]
   - Anecdote of a doc review, title was not clear, she didn't know the details, but then reviewed the content and realized it was about a task and then asked WHY that task was beneficial; the edit was to make it a task and explained that the task improved performance
 - (3) Use objectivity. Usability testing, readability tests, picking a style standard, things to give evidence to "why" change is a good one
   - Readability tests... intros Flesch Kincaid > example of a paragraph that was a 24 on FK (so, beyond college grad) and then bringing it down to 9th grade level
-  - Readability programs: readbility.io, Hemingway, etc.
+  - Readability programs: readbility.io, [Hemingway Editor](https://hemingwayapp.com/), etc.
   - Style guides ... google, MS, etc.
   - Global English, minimalism, DITA guidelines (add. resources)
   - Usability testing ... can have someone try to do task while reading instructions in a conference room
